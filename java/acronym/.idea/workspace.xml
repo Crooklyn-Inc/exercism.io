@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0ac2f70-fe8e-4983-8d59-ac9b76d81205" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="ProjectId" id="1dYJkgUSAgSDKKQw0n2fT97Eh33" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../scrabble-score" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager" selected="Gradle.AcronymTest">
+    <configuration name="AcronymTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;AcronymTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="AcronymTest.apostrophes" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;AcronymTest.apostrophes&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="AcronymTest.consecutiveDelimiters" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;AcronymTest.consecutiveDelimiters&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="AcronymTest.underscoreEmphasis" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;AcronymTest.underscoreEmphasis&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="AcronymTest.veryLongAbbreviation" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;AcronymTest.veryLongAbbreviation&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.AcronymTest" />
+        <item itemvalue="Gradle.AcronymTest.underscoreEmphasis" />
+        <item itemvalue="Gradle.AcronymTest.apostrophes" />
+        <item itemvalue="Gradle.AcronymTest.consecutiveDelimiters" />
+        <item itemvalue="Gradle.AcronymTest.veryLongAbbreviation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0ac2f70-fe8e-4983-8d59-ac9b76d81205" name="Default Changelist" comment="" />
+      <created>1592596237737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592596237737</updated>
+      <workItem from="1592596240789" duration="3711000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1592616024041">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="295" key="FileChooserDialogImpl/-1920.0.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1592616024041" />
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1592616025278">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/-1920.0.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1592616025278" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1592616025278">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.center/-1920.0.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1592616025278" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1592616025278">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.left/-1920.0.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1592616025278" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1592616025278">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.right/-1920.0.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1592616025278" />
+  </component>
+</project>

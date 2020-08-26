@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b17d245-490f-47f7-800a-b9f4a0e9278d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectId" id="1d9QmF7DzJ8U7FsLXrPxmMhe0Sb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../darts" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ResistorColorDuoTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ResistorColorDuoTest&quot; --stacktrace" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.ResistorColorDuoTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b17d245-490f-47f7-800a-b9f4a0e9278d" name="Default Changelist" comment="" />
+      <created>1591834985719</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591834985719</updated>
+      <workItem from="1591834989513" duration="3261000" />
+      <workItem from="1591896673950" duration="103000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1591896774256">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="295" key="FileChooserDialogImpl/-1920.0.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1591896774256" />
+    <state width="1476" height="221" key="GridCell.Tab.0.bottom" timestamp="1591896775799">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1476" height="221" key="GridCell.Tab.0.bottom/-1920.0.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1591896775799" />
+    <state width="1476" height="221" key="GridCell.Tab.0.center" timestamp="1591896775799">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1476" height="221" key="GridCell.Tab.0.center/-1920.0.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1591896775799" />
+    <state width="1476" height="221" key="GridCell.Tab.0.left" timestamp="1591896775798">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1476" height="221" key="GridCell.Tab.0.left/-1920.0.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1591896775798" />
+    <state width="1476" height="221" key="GridCell.Tab.0.right" timestamp="1591896775799">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1476" height="221" key="GridCell.Tab.0.right/-1920.0.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1591896775799" />
+    <state x="440" y="114" key="SettingsEditor" timestamp="1591836349170">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="440" y="114" key="SettingsEditor/-1920.0.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1591836349170" />
+    <state x="-1455" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1591896754284">
+      <screen x="-1920" y="0" width="1536" height="864" />
+    </state>
+    <state x="-1455" y="256" key="com.intellij.ide.util.TipDialog/-1920.0.1536.864/0.0.1920.1080@-1920.0.1536.864" timestamp="1591896754284" />
+  </component>
+</project>
